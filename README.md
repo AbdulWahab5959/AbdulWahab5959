@@ -6,11 +6,6 @@
 I’m a passionate **Full-Stack Developer** with expertise in **PHP & JavaScript**, crafting high-performance websites and web applications. 
 With a strong background in both **front-end and back-end development**, I focus on building scalable, user-friendly, and secure applications.  
 
-## 🔥 Soft Skills: 
-- Problem-Solving  
-- Client Communication  
-- Time Management  
-
 ## 🔥 Tech Stack:
 - **Backend:** PHP (Object-Oriented Programming), RESTful APIs, Payment Gateway Integration
 - **Database:** MySQL (MySQLi, PDO), Database Design & Optimization  
@@ -21,9 +16,30 @@ With a strong background in both **front-end and back-end development**, I focus
     - Performance Optimization  
     - Basic SEO Principles  
     - Accessibility Best Practices  
-- **Tools:** Git, GitHub, VS Code, Office365
+- **Tools & Platforms:**  
+    - Version Control: Git, GitHub  
+    - IDEs & Editors: Visual Studio Code, Sublime Text  
+    - Productivity: Office 365  
+    - Deployment: cPanel, FTP, Localhost (XAMPP)  
+    - Debugging: Browser DevTools, Xdebug  
+    - Design Tools: Canva  
 
 
+## 🔥 Soft Skills: 
+- Problem-Solving  
+- Client Communication  
+- Time Management  
+- Team Collaboration  
+- Adaptability  
+- Critical Thinking  
+- Attention to Detail  
+- Leadership  
+- Creativity  
+- Continuous Learning  
+- Decision-Making  
+- Remote Work Adaptability  
+- Virtual Collaboration  
+- Digital Literacy  
 
 ## 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdulWahab5959&show_icons=true&theme=dark)

@@ -7,14 +7,20 @@ I’m a passionate **Full-Stack Developer** with expertise in **PHP & JavaScript
 With a strong background in both **front-end and back-end development**, I focus on building scalable, user-friendly, and secure applications.  
 
 ## 🔥 Soft Skills: 
-1-Problem-Solving 
-2-Client Communication
-3-Time Management
+- Problem-Solving  
+- Client Communication  
+- Time Management  
 
 ## 🔥 Tech Stack:
-- **Backend:** PHP (OOP, MySQL, PDO), REST APIs
-- **Database:** MySQL
-- **Frontend:** JavaScript (Vanilla, jQuery), HTML5, CSS3, Responsive Design
+- **Backend:** PHP (Object-Oriented Programming), RESTful APIs, Payment Gateway Integration
+- **Database:** MySQL (MySQLi, PDO), Database Design & Optimization  
+- **Frontend:** JavaScript (Vanilla, jQuery), HTML5, CSS3, Bootstrap5, Responsive & Mobile-First Design  
+- **Other Skills:**  
+    - Cross-Browser Compatibility  
+    - Debugging & Troubleshooting  
+    - Performance Optimization  
+    - Basic SEO Principles  
+    - Accessibility Best Practices  
 - **Tools:** Git, GitHub, VS Code, Office365
 
 
@@ -24,4 +30,3 @@ With a strong background in both **front-end and back-end development**, I focus
 
 🔗 **Find me on:**  
 [LinkedIn](https://www.linkedin.com/in/abdul-wahab-khan-393374294)
-

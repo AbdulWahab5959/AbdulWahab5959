@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Abdul Wahab Khan 
 Full-Stack Developer
- 2+ Years Experience | 60+ Projects | Fiverr | Freelancer
+ 4+ Years Experience | 60+ Projects | Fiverr | Freelancer
 
 I’m a passionate Full-Stack Web Developer specializing in Core PHP. I build scalable, secure, and user-friendly applications, with strong expertise in database design, API integrations, and performance optimization.
 

@@ -69,15 +69,14 @@ Because some professional projects may be private, this profile focuses on the t
 - Practicing production-style workflows with tests, GitHub Actions, Docker, and deployment notes.
 - Exploring practical AI/web automation use cases connected to PHP, Laravel, APIs, and business workflows.
 
-## GitHub Stats
+## Profile Highlights
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdulWahab5959&show_icons=true&theme=default&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulWahab5959&layout=compact&theme=default&hide_border=true)
+- Backend-focused full-stack developer with Laravel, PHP, SQL, and React.js experience.
+- Experienced in REST API development, database optimization, integrations, CI/CD, and deployment workflows.
+- Building public repositories that demonstrate clean architecture, documentation, testing, and practical business use cases.
 
 ## Contact
 
 - LinkedIn: [linkedin.com/in/abdul-wahab-khan-393374294](https://www.linkedin.com/in/abdul-wahab-khan-393374294)
 - GitHub: [github.com/AbdulWahab5959](https://github.com/AbdulWahab5959)
 - Email: [abdulwahabk620@gmail.com](mailto:abdulwahabk620@gmail.com)
-

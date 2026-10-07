@@ -4,7 +4,7 @@
 
 I am a Full-Stack Software Engineer with 4+ years of professional experience across client and production projects, specializing in PHP/Laravel, REST APIs, MySQL/PostgreSQL, React/TypeScript, and production debugging. My work includes secure backend systems, payment and webhook integrations, database optimization, and release validation through Laravel testing, Playwright, and manual QA.
 
-Based in Mianwali, Pakistan, I currently work remotely as a Senior Software Engineer (Contractor) at NewHotMusic.com. My public portfolio includes five projects, with one completed and four in development.
+Based in Mianwali, Pakistan, I currently work remotely as a Mid-Level Software Engineer (Contractor) at NewHotMusic.com. My public portfolio includes five projects, with one completed and four in development.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdul%20Wahab%20Khan-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-wahab-khan-393374294)
 [![GitHub](https://img.shields.io/badge/GitHub-AbdulWahab5959-181717?style=flat&logo=github&logoColor=white)](https://github.com/AbdulWahab5959)
@@ -41,7 +41,7 @@ Based in Mianwali, Pakistan, I currently work remotely as a Senior Software Engi
 
 ## Professional Experience Highlights
 
-### Senior Software Engineer - NewHotMusic.com
+### Mid-Level Software Engineer - NewHotMusic.com
 
 **Remote contractor | April 2026 - Present**
 
